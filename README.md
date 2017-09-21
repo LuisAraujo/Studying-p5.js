@@ -6,9 +6,9 @@
 ##Games
 
 
-1. [Pong](https://luisaraujo.github.io/Studying-p5.js/ "link to pong game")
+1. [Pong](https://luisaraujo.github.io/Studying-p5.js/pong_p5js/ "link to pong game")
 	* Main features: Using custom font and drawing rectangles
-2. [Rock, Paper and Scrissors](https://luisaraujo.github.io/Studying-p5.js "link to tictactoe game")
+2. [Rock, Paper and Scrissors](https://luisaraujo.github.io/Studying-p5.js/rockpapperscrissors_p5js/ "link to tictactoe game")
 	* Main feature: Using image and custom font
 3. Tic-Tac-Toe 
 4. Space Invaders
