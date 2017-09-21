@@ -5,8 +5,13 @@
 
 ##Games
 
-1. Pong
-2. Flapy Bird
-3. Sanke
-2. Space Invaders
 
+1. [Pong](https://luisaraujo.github.io/Studying-p5.js/ "link to pong game")
+	* Main features: Using custom font and drawing rectangles
+2. [Rock, Paper and Scrissors](https://luisaraujo.github.io/Studying-p5.js "link to tictactoe game")
+	* Main feature: Using image and custom font
+3. Tic-Tac-Toe 
+4. Space Invaders
+3. Flappy Birds
+4. T-Rex
+5. Snake
